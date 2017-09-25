@@ -1,4 +1,4 @@
-This application can be used to create a collage from varoius small images. An image can be scalled, rotated or moved throughout the canvas as requried. A single image can be moved to the front or pushed to the back as required i.e. it has an option to order the image stack. 
+This application can be used to create a collage from various small images. An image can be scaled, rotated or moved throughout the canvas as required. A single image can be moved to the front or pushed to the back as required i.e. it has an option to order the image stack. 
 
 Following are the instructions to use this tool:<br />
 A. Adding an image(2 ways) 
